@@ -6,6 +6,6 @@
 - 🤔 I’m looking for help with Java
 - 💬 Ask me about New Technologies
 - 📫 How to reach me: ifahim.rahman@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: He?
 - ⚡ Fun fact: I love playing football
 
