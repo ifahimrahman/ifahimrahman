@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**ifahimrahman/ifahimrahman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### I am Fahim Rahman 👋
 
 - 🔭 I’m currently working on AngularJs
 - 🌱 I’m currently learning Java Spring Framework
@@ -13,4 +8,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ifahim.rahman@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I love playing football
--->
+
