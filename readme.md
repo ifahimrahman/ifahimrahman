@@ -1,9 +1,6 @@
-### I am Fahim Rahman and 👋
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-
-
+### I am Fahim Rahman  👋
 ## I'm a passionate Full Stack Web Developer !!
+
 - 🔭 I’m currently working on AngularJs
 - 🌱 I’m currently learning Java Spring Framework
 - 👯 I’m looking to collaborate on creating full stack web application
