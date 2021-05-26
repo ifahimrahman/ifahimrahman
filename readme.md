@@ -1,5 +1,5 @@
 ### I am Fahim Rahman  👋
-## I'm a passionate Full Stack Web Developer !!
+## I'm a passionate Software Engineer !!
 
 - 🔭 I’m currently working on AngularJs
 - 🌱 I’m currently learning Java Spring Framework
