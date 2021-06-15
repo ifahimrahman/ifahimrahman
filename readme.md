@@ -1,7 +1,7 @@
 ### I am Fahim Rahman  👋
 ## I'm a passionate Software Engineer !!
 
-- 🔭 I’m currently working on AngularJs
+- 🔭 I’m currently working on ReactJs
 - 🌱 I’m currently learning Java Spring Framework
 - 👯 I’m looking to collaborate on creating full stack web application
 - 🤔 I’m looking for help with Java Spring Framework
