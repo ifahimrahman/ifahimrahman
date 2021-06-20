@@ -2,9 +2,9 @@
 ## I'm a passionate Software Engineer !!
 
 - 🔭 I’m currently working on ReactJs
-- 🌱 I’m currently learning Java Spring Framework
+- 🌱 I’m currently learning Laravel
 - 👯 I’m looking to collaborate on creating full stack web application
-- 🤔 I’m looking for help with Java Spring Framework
+- 🤔 I’m looking for help with Laravel
 - 💬 Ask me about New Technologies
 - 📫 How to reach me: ifahim.rahman@gmail.com
 - 😄 Pronouns: He?
