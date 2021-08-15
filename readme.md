@@ -1,5 +1,5 @@
 ### I am Fahim Rahman  👋
-## I'm a passionate Software Engineer !!
+## I'm a passionate Web Developer !!
 
 - 🔭 I’m currently working on ReactJs
 - 🌱 I’m currently learning Laravel
