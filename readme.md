@@ -2,9 +2,9 @@
 ## I'm a passionate Web Developer !!
 
 - 🔭 I’m currently working on ReactJs
-- 🌱 I’m currently learning Laravel
+- 🌱 I’m currently learning NodeJs
 - 👯 I’m looking to collaborate on creating full stack web application
-- 🤔 I’m looking for help with Laravel
+- 🤔 I’m looking for help with NodeJs
 - 💬 Ask me about New Technologies
 - 📫 How to reach me: ifahim.rahman@gmail.com
 - 😄 Pronouns: He?
