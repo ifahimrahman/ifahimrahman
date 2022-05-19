@@ -1,7 +1,7 @@
 ### I am Fahim Rahman  👋
 ## I'm a passionate Web Developer !!
 
-- 🔭 I’m currently working on Laravel & React
+- 🔭 I’m currently working on React
 - 🌱 I’m currently learning NodeJs
 - 👯 I’m looking to collaborate on creating full stack web application
 - 🤔 I’m looking for help with NodeJs
