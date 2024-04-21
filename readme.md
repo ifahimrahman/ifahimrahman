@@ -1,10 +1,10 @@
 ### I am Fahim Rahman  👋
-## I'm a passionate Web Developer !!
+## I'm a passionate JavaScript & Python Programmer !!
 
-- 🔭 I’m currently working on React
-- 🌱 I’m currently learning NodeJs
-- 👯 I’m looking to collaborate on creating full stack web application
-- 🤔 I’m looking for help with NodeJs
+- 🔭 I’m currently working on React & Wordpress
+- 🌱 I’m currently learning Python
+- 👯 I’m looking to collaborate on frontend projects and python project related to ML,DS, AI
+- 🤔 I’m looking for help with AI.
 - 💬 Ask me about New Technologies
 - 📫 How to reach me: ifahim.rahman@gmail.com
 - 😄 Pronouns: He?
